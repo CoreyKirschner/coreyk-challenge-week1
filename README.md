@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Week 1 Challenge
 I made the code more semantic. Replacing all the div elements to more appropriate tags including
 header, nav, section, aside, and footer. This makes reading the code easier, giving
 easier direction of where you are on the html page. I also replaced span tag with label tag.
